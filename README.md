@@ -8,7 +8,7 @@ Note: You will be able to reproduce this results since no data grooming or augme
 
 # Instructions on how to execute
 First of all, go to the kaggle challenge (https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
-and download the dataset, and then place the file fer2013.csv on this folder.
+and download the dataset, and then place the file fer2013.csv in this folder.
 
 Execution file: cnn_tensorflow.py
 
